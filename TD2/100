@@ -1,0 +1,15 @@
+
+USAGE: To test your implementation of the create_node functions run the program as follows:
+
+ ./test_create_node <tests>
+
+The parameter is optional.
+<tests>      - a positive integer- ,
+	    the number of tests to perform 
+	    default value is 10
+
+
+Testing the function create_node() on 10 tests ...		
+   #errors = 0 in the first create_node
+   #errors = 0 in the second create_node
+[OK]
